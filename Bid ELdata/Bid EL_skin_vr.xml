@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano version="1.19-pr16">
+
+    
+  <!-- Spot Style - Default Point Spot Style -->
+
+
+  <style name="IconDefaultPointSpotStyle"
+         url="%FIRSTXML%/spots/_1090_user_defaultpoint0.png"
+         visible="false"
+         edge="center"
+         onloaded="showPermanentTooltip(all);"
+
+         height="20"
+         width="20"
+         />
+
+
+
+  <!-- unsupported kind of display : PointMap -->
+
+
+</krpano>
